@@ -1,0 +1,4 @@
+{"firstname":"","lastname":"","gender":"","DOB":"","NID":"","address":"","phone":"","email":"","user":"","Remail":""}
+{"firstname":"Md.","lastname":"Rabby","gender":"male","DOB":"1993-01-01","NID":"9908808998","address":"Thakurgaon","phone":"01722846784","email":"raselzisan990@gmail.com","user":"RABBY","Remail":"mdraselaiub@gmail.com"}
+{"firstname":"","lastname":"","gender":"","DOB":"","NID":"","address":"","phone":"","email":"","user":"","Remail":""}
+{"firstname":"Md.","lastname":"Rasel","gender":"male","DOB":"2021-03-01","NID":"3304404696","address":"Dhaka","phone":"01767227082","email":"rasel.aiub990@gmail.com","user":"RASEL","Remail":"mdraselaiub@gmail.com"}
